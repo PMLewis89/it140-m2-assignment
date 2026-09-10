@@ -23,4 +23,4 @@ Overall, this assignment gave me more experience with writing, running, and test
 ## References
 
 OpenAI. (2026). *ChatGPT* [Large language model]. Used for guidance with organizing and revising the IDE features reflection.
-OpenAI. (2026). *ChatGPT* [Large language model]. Used for guidance with organizing and revising the IDE features reflection.
+
